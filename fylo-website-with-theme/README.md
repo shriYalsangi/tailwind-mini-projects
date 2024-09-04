@@ -1,6 +1,6 @@
 # Fylo Static Website
 
-This project is a simple static website inspired by [Fylo](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). It includes a button to toggle between dark and light themes, which is stored in `localStorage`. The website is fully responsive and built using Tailwind CSS, HTML, and JavaScript.
+This project is a simple static website inspired by [Frontend Mentor Challenge](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). It includes a button to toggle between dark and light themes, which is stored in `localStorage`. The website is fully responsive and built using Tailwind CSS, HTML, and JavaScript.
 
 ## Features
 
